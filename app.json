@@ -1,4 +1,10 @@
 {
   "name": "Glproject",
-  "displayName": "Glproject"
+  "displayName": "Glproject",
+  "expo":{
+    "icon": "./assets/icon.png",
+    "splash": "./assets/splash.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#3679fe"
+  }
 }
